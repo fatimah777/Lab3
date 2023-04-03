@@ -5,4 +5,10 @@
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
     </style>
+    <style name="MainStyle.PrimaryText">
+        2 <item name="android:textColor">?attr/colorPrimary</item>
+        3 </style>
+    5 <style name="MainStyle.SecondaryText">
+    6 <item name="android:textColor">?attr/colorSecondaryVariant</item>
+    7 </style>
 </resources>
